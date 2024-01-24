@@ -1,7 +1,7 @@
 "use client"
 import Script from "next/script";
 import { Fragment, useEffect } from "react";
-const API_URL = "https://ac79-39-40-59-7.ngrok-free.app";
+const API_URL = "https://sm-app-test-h0dv7zzlo-saud404.vercel.app";
 export default function FBHome() {
   const login = () => {
     window.FB.login((response) => {
