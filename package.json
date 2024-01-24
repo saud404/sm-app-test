@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@types/facebook-js-sdk": "^3.3.10",
+    "dotenv": "^16.4.1",
     "next": "14.1.0",
     "node-fetch": "^3.3.2",
     "react": "^18",
